@@ -37,3 +37,6 @@ print(rep6)
 
 # nimewo 7
 print(mo.index("a"))
+
+# nimero 8
+print("hello guys")
