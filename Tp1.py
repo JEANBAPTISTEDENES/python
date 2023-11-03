@@ -12,7 +12,7 @@ rep=nom.split()
 print(rep)
 print()
 
-#nimero 3
+#nimero 3bb
 rep2=nom.title()
 print(rep2)
 print()
@@ -33,3 +33,7 @@ rep5="".join(reversed(nom))
 rep6=rep5.upper()
 
 print(rep6)
+
+
+# nimewo 7
+print(mo.index("a"))
