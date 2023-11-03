@@ -1,6 +1,6 @@
 
 #mete yon chen karacte an miniskil
-mo="HELLO Guys ,Wellcome Back"
+mo="HELLO Guys Wellcome Back"
 
 m=mo.lower()
 print(m )
@@ -17,14 +17,18 @@ rep2=nom.title()
 print(rep2)
 print()
 
-# nimewo 4rep4=rep[0]print(rep4)
+# nimewo 4   rep4=rep[0]print(rep4)
+nouvo_mo = [let[0] for let in mo.split()]
+init="".join(nouvo_mo)
+print(init)
+
 
 #nimewo 5
 rep4=rep2.replace("A" ,"@")
 print(rep4)
 print()
 
-#nimewo 7
+#nimewo 6
 rep5="".join(reversed(nom))
 rep6=rep5.upper()
 
