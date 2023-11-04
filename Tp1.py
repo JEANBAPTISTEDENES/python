@@ -1,6 +1,6 @@
 
 #mete yon chen karacte an miniskil
-mo="HELLO Guys Wellcome Back"
+mo="WAW HELLO Guys Wellcome Back a"
 
 m=mo.lower()
 print(m )
@@ -17,7 +17,7 @@ rep2=nom.title()
 print(rep2)
 print()
 
-# nimewo 4   rep4=rep[0]print(rep4)
+# nimewo 4   
 nouvo_mo = [let[0] for let in mo.split()]
 init="".join(nouvo_mo)
 print(init)
@@ -36,7 +36,7 @@ print(rep6)
 
 
 # nimewo 7
-print(mo.index("a"))
+index=mo.index("a")
+print(index)
 
 # nimero 8
-print("hello guys")
