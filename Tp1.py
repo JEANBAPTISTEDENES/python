@@ -43,7 +43,6 @@ print()
 
 # nimero 8 e 9
 chenn = "Ayiti kapab avanse"
-
 index_a = []
 for i, let in enumerate(chenn):
     if let.lower() == "a":
